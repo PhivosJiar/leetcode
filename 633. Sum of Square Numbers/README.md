@@ -25,7 +25,6 @@ Constraints:
 
 0 <= c <= 231 - 1
 
-Example 1:
 
 ## 解題思路
 

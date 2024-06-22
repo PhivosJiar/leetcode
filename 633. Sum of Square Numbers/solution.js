@@ -1,9 +1,9 @@
 const judgeSquareSum = (c) => {
   const squareList = [];
   for (let i = 0; i * i <= c; i++) {
-    const sqrt = i * i;
-    if (sqrt > c) break;
-    squareList.push(sqrt);
+    const square = i * i;
+    if (square > c) break;
+    squareList.push(square);
   }
 
   let left = 0;

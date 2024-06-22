@@ -1,4 +1,4 @@
-# 633. Sum of Square Numbers
+# 1482. Minimum Number of Days to Make m Bouquets
 
 ## 題目
 
